@@ -42,7 +42,7 @@ blockquote {
   font-family: 'EB Garamond', serif;
   font-weight: 500;
   font-size: 28px;
-  line-height: 1.2;
+  line-height: 1.15;
 }
 
 .content-section__introduction {
@@ -179,6 +179,9 @@ blockquote {
 }
 
 .card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
   border-radius: 30px;
   padding: 20px;
 }
