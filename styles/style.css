@@ -132,6 +132,7 @@ blockquote {
 .intro__heading {
   display: flex;
   justify-content: space-between;
+  color: #ccc;
 }
 
 .intro__title {
@@ -219,7 +220,7 @@ blockquote {
 
 .card__title {
   font-family: 'EB Garamond', serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 22px;
   line-height: 1.35;
 }
